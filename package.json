@@ -1,0 +1,20 @@
+{
+  "name": "sql-employee-tracker",
+  "version": "1.0.0",
+  "description": "a node js app to make it much easier for the employer to manage departments, roles, and employees in the company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tracker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sql-Employee-Tracker"
+  },
+  "author": "VithusanU",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "jest": "^29.7.0"
+  }
+}
